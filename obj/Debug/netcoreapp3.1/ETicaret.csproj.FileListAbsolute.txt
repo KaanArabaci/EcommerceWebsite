@@ -1,0 +1,13 @@
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\ETicaret.exe
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\ETicaret.deps.json
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\ETicaret.runtimeconfig.json
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\ETicaret.runtimeconfig.dev.json
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\ETicaret.dll
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\ETicaret.pdb
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\ETicaret.csprojAssemblyReference.cache
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\ETicaret.AssemblyInfoInputs.cache
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\ETicaret.AssemblyInfo.cs
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\ETicaret.csproj.CoreCompileInputs.cache
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\ETicaret.dll
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\ETicaret.pdb
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\ETicaret.genruntimeconfig.cache
