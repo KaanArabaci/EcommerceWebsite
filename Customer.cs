@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ETicaret
+namespace Ecommerce
 {
-    class Musteri
+    class Customer
     {
-        public int TcNo { get; set; }
-        public string Ad { get; set; }
-        public string Soyad { get; set; }
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string Surname { get; set; }
         public string City { get; set; }
 
 
-        private static void SepeteEkle()
+        private static void AddBasket()
         {
             string[] urun = {"kalem","kitap","defter" };
             foreach (var item in urun)
@@ -21,17 +21,17 @@ namespace ETicaret
             }
         }
 
-        public  void SatinAl()
+        public  void Buy()
         {
 
         }
 
-        public void  GeriGonder()
+        public void  SendBack()
         {
 
         }
 
-        public void Odeme()
+        public void PaymentRate()
         {
 
         }

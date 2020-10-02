@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaanarabaci\\source\\repos\\CSharpCourse\\E-Ticaret\\ETicaret.csproj",
-      "projectName": "ETicaret",
-      "projectPath": "C:\\Users\\kaanarabaci\\source\\repos\\CSharpCourse\\E-Ticaret\\ETicaret.csproj",
+      "projectUniqueName": "C:\\Users\\kaanarabaci\\source\\repos\\CSharpCourse\\E-Ticaret\\Ecommerce.csproj",
+      "projectName": "Ecommerce",
+      "projectPath": "C:\\Users\\kaanarabaci\\source\\repos\\CSharpCourse\\E-Ticaret\\Ecommerce.csproj",
       "packagesPath": "C:\\Users\\kaanarabaci\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kaanarabaci\\source\\repos\\CSharpCourse\\E-Ticaret\\obj\\",
       "projectStyle": "PackageReference",

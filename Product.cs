@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ETicaret
+namespace Ecommerce
 {
-    class Urun
+    class Product
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Renk { get; set; }
+        public string Colour { get; set; }
     }
 }

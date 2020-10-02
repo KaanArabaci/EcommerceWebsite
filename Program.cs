@@ -1,22 +1,22 @@
-﻿using ETicaret;
+﻿using Ecommerce;
 using System;
 
-namespace ETicaret
+namespace Ecommerce
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Musteri musteri = new Musteri();
-            musteri.City = "izmir";
+            Customer customer = new Customer();
+            customer.City = "izmir";
 
-            Uretici uretici = new Uretici();
-            uretici.City = "denizli";
+            Producer producer = new Producer();
+            producer.City = "denizli";
             
-            var yon = uretici.KargoyaVer(uretici.City , musteri.City);
-            Console.WriteLine(yon);
+            var direction = producer.SendByCargo(producer.City , customer.City);
+            Console.WriteLine(direction);
 
-            SepeteEkle(0);
+            
             
             
             Console.ReadLine();

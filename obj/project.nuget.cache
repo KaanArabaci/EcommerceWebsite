@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lDGbg1B08Z9sOAN7zfJCnRgUN+MgXiJ13JQzwfQ6K3KOdLEDXM9rYjPnsZruu5v/E/KS+8H5ReNUTHaMFtSEuQ==",
+  "dgSpecHash": "tLZmnSwRp9okvT2vnUPQHSuLO90375+w5rN5tu+vktObHOiIN2VBUTlpEpFT14aPw8k8TB8hic39/EiVL2KqZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaanarabaci\\source\\repos\\CSharpCourse\\E-Ticaret\\ETicaret.csproj",
+  "projectFilePath": "C:\\Users\\kaanarabaci\\source\\repos\\CSharpCourse\\E-Ticaret\\Ecommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaanarabaci\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\kaanarabaci\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
