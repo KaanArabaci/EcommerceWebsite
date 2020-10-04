@@ -1,24 +1,23 @@
-﻿using System;
+﻿using E_Ticaret;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Ecommerce
 {
-    class Customer
+    class Customer : IUseGuid
     {
+
+        public Guid Guid { get; set; }
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string Surname { get; set; }
         public string City { get; set; }
 
 
-        private static void AddBasket()
+        public void AddBasket()
         {
-            string[] urun = {"kalem","kitap","defter" };
-            foreach (var item in urun)
-            {
-                Console.WriteLine(item);
-            }
+           
         }
 
         public  void Buy()

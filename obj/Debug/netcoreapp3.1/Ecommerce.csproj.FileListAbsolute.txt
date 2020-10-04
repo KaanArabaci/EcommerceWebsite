@@ -1,0 +1,13 @@
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\Ecommerce.exe
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\Ecommerce.deps.json
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\Ecommerce.runtimeconfig.json
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\Ecommerce.runtimeconfig.dev.json
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\Ecommerce.dll
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\bin\Debug\netcoreapp3.1\Ecommerce.pdb
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\Ecommerce.csprojAssemblyReference.cache
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\Ecommerce.AssemblyInfo.cs
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\Ecommerce.dll
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\Ecommerce.pdb
+C:\Users\kaanarabaci\source\repos\CSharpCourse\E-Ticaret\obj\Debug\netcoreapp3.1\Ecommerce.genruntimeconfig.cache

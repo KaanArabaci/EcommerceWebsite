@@ -1,24 +1,26 @@
-﻿using System;
+﻿using E_Ticaret;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Ecommerce
 {
-    class Producer
+    class Manufacturer:IUseGuid
     {
-        public int Id { get; set; }
+        public Guid Guid { get; set; }
+
         public string Name { get; set; }
         public string Surname { get; set; }
         public string City { get; set; }
 
-        public string SendByCargo(string city1,string city2)
+        public void SendByCargo()
         {
-            return city1 + city2;
+            
         }
 
-        public int Refund(int Price)
+        public void Refund()
         {
-            return Price;
+           
         }
     }
 }
