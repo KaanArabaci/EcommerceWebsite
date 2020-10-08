@@ -7,36 +7,40 @@ using System.Text;
 
 namespace Ecommerce
 {
-    class Customer
+    class Customer : Person
     {
-
-
-
         public int Id { get; set; }
         public string FirstName { get; set; }
-        public string Surname { get; set; }
+        public string LastName { get; set; }
         public string City { get; set; }
-
-
+        public string Addres { get; set; }
         public void AddBasket()
         {
 
         }
+        public void PaymentRate()
+        {
 
+        }
+        public void Pay()
+        {
+
+        }
         public void Buy()
         {
 
         }
-
         public void SendBack()
         {
 
         }
 
-        public void PaymentRate()
-        {
 
-        }
+
+
+
+
+        
     }
 }
 
