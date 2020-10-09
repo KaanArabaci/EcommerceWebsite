@@ -10,7 +10,7 @@ namespace Ecommerce
     class Customer : Person
     {
 
-        Guid guid = Guid.NewGuid();
+        Guid guid4;
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }

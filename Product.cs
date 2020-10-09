@@ -6,7 +6,8 @@ namespace Ecommerce
 {
     class Product
     {
-        Guid guid = Guid.NewGuid();
+        Guid guid1;
+        
         public int Id { get; set; }
         public string Name { get; set; }
         public string Colour { get; set; }

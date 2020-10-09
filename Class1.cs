@@ -8,5 +8,6 @@ namespace Ecommerce
 {
     public class Class1
     {
+        Guid guid5;
     }
 }

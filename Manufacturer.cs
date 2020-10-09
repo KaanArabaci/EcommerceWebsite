@@ -9,7 +9,7 @@ namespace Ecommerce
     class Manufacturer : Person
 
     {
-        Guid guid = Guid.NewGuid();
+        Guid guid3;
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -32,7 +32,7 @@ namespace Ecommerce
 
         }
 
-        public void Shipment()
+        public void SendByCargo()
         {
 
         }
